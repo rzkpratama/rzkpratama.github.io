@@ -32,3 +32,5 @@ social:
   github: "rzkpratama"
   linkedin: "www.linkedin.com/in/rpratama"
   email: "rizkypratama731@gmail.com"
+
+minimal_mistakes_skin: "dark"  # Options: "default", "air", "neon", etc.
