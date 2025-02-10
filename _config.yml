@@ -9,7 +9,7 @@ plugins:
   - jekyll-include-cache
 
 # Site settings
-minimal_mistakes_skin: "default"  # Change to "dark", "air", "neon", etc.
+minimal_mistakes_skin: "air"  # Change to "dark", "air", "neon", etc.
 
 # Navigation links (Modify as needed)
 nav:
@@ -33,4 +33,3 @@ social:
   linkedin: "www.linkedin.com/in/rpratama"
   email: "rizkypratama731@gmail.com"
 
-minimal_mistakes_skin: "dark"  # Options: "default", "air", "neon", etc.
