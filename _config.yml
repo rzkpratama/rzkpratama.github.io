@@ -1,0 +1,34 @@
+title: "My Professional Portfolio"
+description: "Welcome to my personal website showcasing my projects and skills."
+
+# Set Minimal Mistakes as the theme
+remote_theme: "mmistakes/minimal-mistakes"
+
+# Plugins (Required for Minimal Mistakes)
+plugins:
+  - jekyll-include-cache
+
+# Site settings
+minimal_mistakes_skin: "default"  # Change to "dark", "air", "neon", etc.
+
+# Navigation links (Modify as needed)
+nav:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "About"
+    url: /about/
+
+# Author info
+author:
+  name: "Rizky Pratama"
+  avatar: "/assets/images/avatar.png"  # Add your profile picture here
+  bio: "Geologist | Energy Solutions | Carbon Capture & Storage"
+  email: "rizkypratama731@gmail.com"
+
+# Social links
+social:
+  github: "rzkpratama"
+  linkedin: "www.linkedin.com/in/rpratama"
+  email: "rizkypratama731@gmail.com"
