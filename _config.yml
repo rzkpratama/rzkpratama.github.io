@@ -9,7 +9,7 @@ plugins:
   - jekyll-include-cache
 
 # Site settings
-minimal_mistakes_skin: "air"  # Change to "dark", "air", "neon", etc.
+minimal_mistakes_skin: "dark"  # Change to "dark", "air", "neon", etc.
 
 # Navigation links (Modify as needed)
 nav:
